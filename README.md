@@ -2,7 +2,7 @@
 Name: SOWMYA DONETI 
 Id:700754085
 
-VideoLink:https://drive.google.com/file/d/1FN-Smg0_2j-59TbjikO2NXbkieBQA0ky/view?usp=sharing
+VideoLink:https:
 
 Neural Network Assignment ICP_8 Programs
 
